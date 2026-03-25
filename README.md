@@ -1,1 +1,1 @@
-# my-portfolio
+Goals: Master Git and GitHub
